@@ -12,4 +12,4 @@
 * Upload the code with the 4 files + README.md file to GitHub. README.md (look at the spelling) must have details about this code and how to read your code (what file does what). Heavy negative scores for not formatting your markdown file into p, H1, H2, list, etc. 
 Attempt this assignment
 
-*** The Session_5_assignment.ipynb contains basic code in pytorch that uses teh MNIST data. 
+### The Session_5_assignment.ipynb contains basic code in pytorch that uses the MNIST data. 
